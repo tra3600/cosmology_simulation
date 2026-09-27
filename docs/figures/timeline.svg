@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 920 760" width="920" height="760" font-family="system-ui, -apple-system, 'Segoe UI', Roboto, sans-serif">
+<defs><linearGradient id="heat" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fff7c2"/><stop offset="0.25" stop-color="#ffb74d"/><stop offset="0.55" stop-color="#e5533d"/><stop offset="0.75" stop-color="#7b3fa0"/><stop offset="1" stop-color="#1b2a6b"/></linearGradient></defs>
+<rect width="100%" height="100%" fill="#0b1026"/>
+<text x="40" y="38" fill="#e6e9f5" font-size="21" font-weight="600">Chronologie de l'univers — modèle planck2018</text>
+<text x="40" y="62" fill="#9aa4c7" font-size="13.5">Temps depuis le Big Bang en échelle logarithmique ; la couleur suit la température du rayonnement fossile, T = T0 (1+z)</text>
+<rect x="163" y="90" width="14" height="630" rx="7" fill="url(#heat)"/>
+<line x1="154" x2="162" y1="90" y2="90" stroke="#9aa4c7"/><text x="148" y="94" fill="#9aa4c7" font-size="12" text-anchor="end">1 seconde</text>
+<line x1="154" x2="162" y1="153.152" y2="153.152" stroke="#9aa4c7"/><text x="148" y="157.152" fill="#9aa4c7" font-size="12" text-anchor="end">1 minute</text>
+<line x1="154" x2="162" y1="216.303" y2="216.303" stroke="#9aa4c7"/><text x="148" y="220.303" fill="#9aa4c7" font-size="12" text-anchor="end">1 heure</text>
+<line x1="154" x2="162" y1="356.333" y2="356.333" stroke="#9aa4c7"/><text x="148" y="360.333" fill="#9aa4c7" font-size="12" text-anchor="end">1 an</text>
+<line x1="154" x2="162" y1="462.879" y2="462.879" stroke="#9aa4c7"/><text x="148" y="466.879" fill="#9aa4c7" font-size="12" text-anchor="end">1000 ans</text>
+<line x1="154" x2="162" y1="569.425" y2="569.425" stroke="#9aa4c7"/><text x="148" y="573.425" fill="#9aa4c7" font-size="12" text-anchor="end">1 Myr</text>
+<line x1="154" x2="162" y1="640.455" y2="640.455" stroke="#9aa4c7"/><text x="148" y="644.455" fill="#9aa4c7" font-size="12" text-anchor="end">100 Myr</text>
+<line x1="154" x2="162" y1="675.971" y2="675.971" stroke="#9aa4c7"/><text x="148" y="679.971" fill="#9aa4c7" font-size="12" text-anchor="end">1 Gyr</text>
+<line x1="154" x2="162" y1="711.486" y2="711.486" stroke="#9aa4c7"/><text x="148" y="715.486" fill="#9aa4c7" font-size="12" text-anchor="end">10 Gyr</text>
+<circle cx="170" cy="176.738" r="4.5" fill="#ffffff"/>
+<path d="M176,176.738 L230,176.738 L288,176.738 L296,176.738" fill="none" stroke="#5b6488" stroke-width="1.2"/>
+<text x="300" y="173.738" fill="#e6e9f5" font-size="14.5" font-weight="600">Nucléosynthèse primordiale</text>
+<text x="300" y="191.738" fill="#9aa4c7" font-size="12.5">t = 4.61 min  ·  z = 2.9e+08  ·  T = 8×10⁸ K  ·  formation de l'hélium et du deutérium</text>
+<circle cx="170" cy="523.366" r="4.5" fill="#ffffff"/>
+<path d="M176,523.366 L230,523.366 L288,306 L296,306" fill="none" stroke="#5b6488" stroke-width="1.2"/>
+<text x="300" y="303" fill="#e6e9f5" font-size="14.5" font-weight="600">Égalité matière-rayonnement</text>
+<text x="300" y="321" fill="#9aa4c7" font-size="12.5">t = 5.05e+04 ans  ·  z = 3419  ·  T = 9320.7 K  ·  la matière commence à dominer</text>
+<circle cx="170" cy="554.14" r="4.5" fill="#ffffff"/>
+<path d="M176,554.14 L230,554.14 L288,352 L296,352" fill="none" stroke="#5b6488" stroke-width="1.2"/>
+<text x="300" y="349" fill="#e6e9f5" font-size="14.5" font-weight="600">Recombinaison : fond diffus cosmologique</text>
+<text x="300" y="367" fill="#9aa4c7" font-size="12.5">t = 3.71e+05 ans  ·  z = 1090  ·  T = 2973.2 K  ·  l'univers devient transparent</text>
+<circle cx="170" cy="649.314" r="4.5" fill="#ffffff"/>
+<path d="M176,649.314 L230,649.314 L288,398 L296,398" fill="none" stroke="#5b6488" stroke-width="1.2"/>
+<text x="300" y="395" fill="#e6e9f5" font-size="14.5" font-weight="600">Premières étoiles (aube cosmique)</text>
+<text x="300" y="413" fill="#9aa4c7" font-size="12.5">t = 178 Myr  ·  z = 20.00  ·  T = 57.2 K  ·  fin des âges sombres, estimation</text>
+<circle cx="170" cy="656.643" r="4.5" fill="#ffffff"/>
+<path d="M176,656.643 L230,656.643 L288,444 L296,444" fill="none" stroke="#5b6488" stroke-width="1.2"/>
+<text x="300" y="441" fill="#e6e9f5" font-size="14.5" font-weight="600">Galaxie JADES-GS-z14-0</text>
+<text x="300" y="459" fill="#9aa4c7" font-size="12.5">t = 286 Myr  ·  z = 14.32  ·  T = 41.8 K  ·  parmi les plus lointaines vues par JWST</text>
+<circle cx="170" cy="669.767" r="4.5" fill="#ffffff"/>
+<path d="M176,669.767 L230,669.767 L288,490 L296,490" fill="none" stroke="#5b6488" stroke-width="1.2"/>
+<text x="300" y="487" fill="#e6e9f5" font-size="14.5" font-weight="600">Milieu de la réionisation</text>
+<text x="300" y="505" fill="#9aa4c7" font-size="12.5">t = 669 Myr  ·  z = 7.70  ·  T = 23.7 K  ·  l'hydrogène intergalactique est ionisé</text>
+<circle cx="170" cy="694.244" r="4.5" fill="#ffffff"/>
+<path d="M176,694.244 L230,694.244 L288,536 L296,536" fill="none" stroke="#5b6488" stroke-width="1.2"/>
+<text x="300" y="533" fill="#e6e9f5" font-size="14.5" font-weight="600">« Midi cosmique »</text>
+<text x="300" y="551" fill="#9aa4c7" font-size="12.5">t = 3.27 Gyr  ·  z = 2.00  ·  T = 8.2 K  ·  pic de formation des étoiles</text>
+<circle cx="170" cy="707.454" r="4.5" fill="#ffffff"/>
+<path d="M176,707.454 L230,707.454 L288,582 L296,582" fill="none" stroke="#5b6488" stroke-width="1.2"/>
+<text x="300" y="579" fill="#e6e9f5" font-size="14.5" font-weight="600">Début de l'accélération</text>
+<text x="300" y="597" fill="#9aa4c7" font-size="12.5">t = 7.7 Gyr  ·  z = 0.63  ·  T = 4.4 K  ·  q devient négatif</text>
+<circle cx="170" cy="710.247" r="4.5" fill="#ffffff"/>
+<path d="M176,710.247 L230,710.247 L288,628 L296,628" fill="none" stroke="#5b6488" stroke-width="1.2"/>
+<text x="300" y="625" fill="#e6e9f5" font-size="14.5" font-weight="600">Formation du Système solaire</text>
+<text x="300" y="643" fill="#9aa4c7" font-size="12.5">t = 9.23 Gyr  ·  z = 0.42  ·  T = 3.9 K  ·  il y a 4,57 Gyr</text>
+<circle cx="170" cy="711.946" r="4.5" fill="#ffffff"/>
+<path d="M176,711.946 L230,711.946 L288,674 L296,674" fill="none" stroke="#5b6488" stroke-width="1.2"/>
+<text x="300" y="671" fill="#e6e9f5" font-size="14.5" font-weight="600">Égalité matière-énergie sombre</text>
+<text x="300" y="689" fill="#9aa4c7" font-size="12.5">t = 10.3 Gyr  ·  z = 0.29  ·  T = 3.5 K  ·  l'énergie sombre prend le dessus</text>
+<circle cx="170" cy="716.448" r="4.5" fill="#ffffff"/>
+<path d="M176,716.448 L230,716.448 L288,720 L296,720" fill="none" stroke="#5b6488" stroke-width="1.2"/>
+<text x="300" y="717" fill="#e6e9f5" font-size="14.5" font-weight="600">Aujourd'hui</text>
+<text x="300" y="735" fill="#9aa4c7" font-size="12.5">t = 13.8 Gyr  ·  z = 0.00  ·  T = 2.7 K  ·  </text>
+</svg>
